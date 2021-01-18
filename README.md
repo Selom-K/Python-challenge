@@ -1,2 +1,2 @@
 # Python-challenge
-This a repo for python homework.
+This is a repo for python homework.
